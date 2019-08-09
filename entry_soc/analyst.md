@@ -1,4 +1,4 @@
-# OpenJQR
+# OpenJQR - Entry Level SOC Analyst
 
 This Job Qualification Requirement is designed to be completed by
 entry-level security operations analysts.
